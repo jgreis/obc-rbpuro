@@ -6,7 +6,7 @@ Utilizando uma collection do tipo Array, escreva um programa que receba 3 númer
 
 - Missão 2
 
-Crie uma collection do tipo Hash e permita que o usuário crie três elementos informando a chave e o valor. No final do programa para cada um desses elementos imprima a frase “Uma das chaves é **** e o seu valor é ****”
+Crie uma collection do tipo Hash e permita que o usuário crie três elementos informando a chave e o valor. No final do programa para cada um desses elementos imprima a frase “Uma das chaves é xxxx e o seu valor é xxxx”
 
 - Missão 3
 
