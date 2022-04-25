@@ -1,4 +1,4 @@
-# OneBitCode - Ruby Puro
+# Ruby Puro | OneBitCode
 
 Curso de Ruby com 10 aulas práticas/teóricas.
 
